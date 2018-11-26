@@ -2,7 +2,7 @@
 
 ## Description:
 This repository provides to you **2 Ubuntu Xenial Webservers** configured as follows:
-- hostaname **web1** and **web2**
+- hostaname **web01** and **web02**
 - **nginx** installed on both
 
 ## Files:
@@ -33,8 +33,8 @@ This repository provides to you **2 Ubuntu Xenial Webservers** configured as fol
   ```
     Current machine states:
 
-  web1                      running (virtualbox)
-  web2                      running (virtualbox)
+  web01                      running (virtualbox)
+  web02                      running (virtualbox)
 
   This environment represents multiple VMs. The VMs are all listed
   above with their current state. For more information about a specific
