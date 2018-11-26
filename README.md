@@ -7,7 +7,6 @@ This repository provides to you **2 Ubuntu Xenial Webservers** configured as fol
 
 ## Files:
 - `Vagrantfile` - Contain both vagrant boxes configurations
-- `scripts/provision.sh` - this script will install the needed software on both vagrant boxes durring boot time.
 
 ## Requiered software:
 
